@@ -1,0 +1,2 @@
+qtwebengine* filter=lfs diff=lfs merge=lfs -text
+qt3d* filter=lfs diff=lfs merge=lfs -text
